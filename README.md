@@ -6,7 +6,9 @@ Claude Code の Fast モード（Opus 4.6）で生成した、インタラクテ
 
 ## Demo
 
-https://hello-fast-world.techtalkjp.workers.dev
+👉 **[Live Demo](https://hello-fast-world.techtalkjp.workers.dev)**
+
+https://github.com/coji/hello-fast-world/releases/download/v0.0.0/demo.mp4
 
 ## What is this?
 
