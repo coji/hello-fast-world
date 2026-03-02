@@ -8,7 +8,11 @@ Claude Code の Fast モード（Opus 4.6）で生成した、インタラクテ
 
 👉 **[Live Demo](https://hello-fast-world.techtalkjp.workers.dev)**
 
-https://github.com/coji/hello-fast-world/releases/download/v0.0.0/demo.mp4
+
+
+https://github.com/user-attachments/assets/587bc746-e85a-46f1-8448-3885c9b7b356
+
+
 
 ## What is this?
 
